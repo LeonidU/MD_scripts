@@ -1,1 +1,1 @@
-# MD_scripts
+# Scripts for molecular dynamics
